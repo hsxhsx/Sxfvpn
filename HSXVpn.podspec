@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "Sxfvpn"
+  s.name         = "HSXVpn"
   s.version      = "1.0.0"
   s.summary      = "深信服vpn插件"
   s.homepage     = "https://github.com/hsxhsx/Sxfvpn"
